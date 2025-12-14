@@ -1,4 +1,4 @@
-FROM ijapesigan/ssm:latest
+FROM ijapesigan/ssm-002:latest
 
 ADD scripts /usr/src/local/src
 RUN cd /usr/src/local/src     && \
