@@ -13,7 +13,8 @@ else
     echo "GITHUB_PAT NOT set"
 fi
 
-bash ubuntu_cran_pkg.sh
+bash install-cran.sh
 bash rproject_sys.sh
 bash rproject.sh
+bash check.sh
 bash post.sh
