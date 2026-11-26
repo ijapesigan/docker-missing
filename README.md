@@ -5,6 +5,8 @@ scripts/github.txt, or .setup/scripts/project.R instead. -->
 
 # ijapesigan/missing
 
+Updated 2026-11-26 15:53:35 UTC.
+
 <!-- badges: start -->
 [![Make Project](https://github.com/ijapesigan/docker-missing/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/docker-missing/actions/workflows/make.yml)
 [![Docker Build and Push Missing [multi] (Daily)](https://github.com/ijapesigan/docker-missing/actions/workflows/docker-build-push-daily-multi-missing.yml/badge.svg)](https://github.com/ijapesigan/docker-missing/actions/workflows/docker-build-push-daily-multi-missing.yml)
